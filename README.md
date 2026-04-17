@@ -22,18 +22,19 @@ You need **Node.js** installed on your computer.
 1. **Install dependencies:**
    ```bash
    npm install
+   
+### 🛠️ Built With
 
-🛠️ Built With
-React - Frontend library
+* **React** - Frontend library
+* **Vite** - Next Generation Frontend Tooling
+* **JavaScript (ES6+)** - Logic and functionality
+* **CSS3 / Tailwind** - Styling
 
-Vite - Next Generation Frontend Tooling
 
-JavaScript (ES6+) - Logic and functionality
+### 📂 Project Structure
 
-CSS3 / Tailwind (Delete as applicable) - Styling
-
-  📂 Project Structure:
-   ├── public/          # Static assets
+```text
+├── public/          # Static assets
 ├── src/
 │   ├── assets/      # Images, icons, etc.
 │   ├── components/  # Reusable UI components
